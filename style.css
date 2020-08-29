@@ -1,0 +1,15 @@
+.navbar-custom {
+    background-color: sienna;
+    border: 5px solid 
+} 
+
+.container {
+    width: 100%;
+}
+
+.footer {   
+        padding: 30px;
+        clear: both;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: center;
+}
