@@ -1,89 +1,16 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. 
 
 
-## Directions
+## About Page Overview
 
-First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
+The about page featurs a basic navbar with working link to other pages on the site. Below the navbar is a jumbotron displaying for my future developer profile along with an image that is also made to be responsive for different devices.  Below the image caption, a "Learn More" button directs the user to the Contact page of the site for now, but may be used to link a different site in the future. The table below can be used to display list of relevant info that is separated into categories. The jumbotron footer is used to display official name/saying/logo. 
 
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
+## Portfolio Page Overview
 
-* Using Bootstrap, develop your portfolio site with the following items:
+The Portfolio page features the website navbar, a jumbotron displaying the page overview, a row divided into three colums to designate categories within the portfolio. Since I only have one homework published on Github so far, a card containing a link to that site (opening in new tab) was added and the other two categories are empty for now.  As the portfolio grows, the categories will be changed from "past, present, future" to some other set of distinctions. The table below the portfolio works mimics the layout of the About page while helping to push the footer jumbotron dowm to eliminate bottom margin.
 
-   * A navbar
+## Contact Page Overview
 
-   * A responsive layout
-
-   * Responsive images
-
-* The Bootstrap portfolio should minimize the use of media queries.
-
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
-
-### Hints
-
-* Use Bootstrap's grid system (containers, rows, and columns).
-
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
-
-* Use an HTML validation service to ensure that each page has valid HTML.
-
-### Minimum Requirements
-
-* Functional, deployed application
-
-* GitHub repository with README describing the project
-
-* Navbar must be consistent on each page.
-
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
-
-* All links must work.
-
-* Must use semantic html.
-
-* Each page must have valid and correct HTML. (use a validation service)
-
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
-
-* Must properly utilize Bootstrap components and grid system.
-
-
-### Bonus
-
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
-
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
-
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URLs of the deployed applications
-
-* The URLs of the GitHub repositories
-
-- - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+The Contact page featurs the site navbar, a current professional profile image with contact info below. Additionally, a LinkedIn profile page was added to the website footer of this page that will take the user to my LinkedIn page.
